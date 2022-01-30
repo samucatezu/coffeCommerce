@@ -1,3 +1,3 @@
 <h1 align="center">
-  <a href="https://samucatezu.github.io/coffeCommerce/">Site do programa :coffee: </a>
+  <a href="https://samucatezu.github.io/coffeeCommerce/">Site do programa :coffee: </a>
 </h1>
